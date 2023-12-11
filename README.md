@@ -1,1 +1,1 @@
-TinDog - basic HTML and CSS project 
+### TinDog - basic HTML and CSS project 
